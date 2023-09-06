@@ -1,0 +1,2 @@
+kl-f8-anime2   --动漫风格
+vae-ft-mse-840000-ema-pruned.safetensors  --真实风格
