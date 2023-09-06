@@ -1,0 +1,12 @@
+
+SD插件备份-[2023-09-06 11:25:50]
+ Stable-Diffusion-Webui-Civitai-Helper: https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git
+ model_preset_manager: https://github.com/rifeWithKaiju/model_preset_manager.git
+ sd-webui-EasyPhoto: https://github.com/aigc-apps/sd-webui-EasyPhoto
+ sd-webui-bilingual-localization: https://github.com/journey-ad/sd-webui-bilingual-localization.git
+ sd-webui-controlnet: https://github.com/Mikubill/sd-webui-controlnet.git
+ sd-webui-infinite-image-browsing: https://github.com/zanllp/sd-webui-infinite-image-browsing.git
+ sd-webui-segment-anything: https://github.com/continue-revolution/sd-webui-segment-anything.git
+ stable-diffusion-webui-localization-zh_CN: https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
+ stable-diffusion-webui-wd14-tagger: https://github.com/picobyte/stable-diffusion-webui-wd14-tagger.git
+ tag-autocomplete: https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git
